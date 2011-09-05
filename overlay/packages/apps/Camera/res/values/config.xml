@@ -18,6 +18,6 @@
 -->
 
 <resources>
-	<!-- High Framerate 1080p for Nvidia Cameras -->
-	<bool name="supportsNvHighBitrateFullHD">true</bool>
+	<!-- High Framerate 1080p for Nvidia Cameras
+	<bool name="supportsNvHighBitrateFullHD">true</bool> -->
 </resources>
